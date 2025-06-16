@@ -51,10 +51,12 @@ Clone the repo and run it locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tower-layout-viewer.git
+git clone https://github.com/EbukaNweje/Mini-Real-Estate-Floor-Selector.git
 cd tower-layout-viewer
 npm install
 npm run dev
+
+Live Link : https://mini-real-estate-floor-selector-xi.vercel.app/
 
 🚀 Future Ideas
 🔌 Connect to a real API or CMS
